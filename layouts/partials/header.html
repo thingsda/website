@@ -15,6 +15,18 @@
     <div class="px-4 font-bold">Kontakt</div>
   </div>
   {{ if .Params.image_header }}
-  <img class="py-4" src="/ines-alvarez-fdez-L_N7BaNLC5Y-unsplash.jpg" />
+  <div data-image-slider data-image-slider-interval="3000">
+    <img class="py-4" src="/ines-alvarez-fdez-L_N7BaNLC5Y-unsplash.jpg" />
+    <img
+      data-image-slider-hide
+      class="py-4"
+      src="/neonbrand-38XhGPwzI3U-unsplash.jpg"
+    />
+    <img
+      data-image-slider-hide
+      class="py-4"
+      src="/ricardo-gomez-angel-PsaMztJp_tE-unsplash.jpg"
+    />
+  </div>
   {{ end }}
 </div>

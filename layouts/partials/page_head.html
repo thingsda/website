@@ -1,1 +1,7 @@
+{{ $js := resources.Get "carousel.js"|resources.Minify|resources.Fingerprint }}
 {{ partial "style.html" . }}
+<script
+  defer
+  src="{{ $js.RelPermalink }}"
+  integrity="{{ $js.Data.Integrity }}"
+></script>
