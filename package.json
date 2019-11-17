@@ -1,0 +1,7 @@
+{
+  "name": "sandesign3d-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dominik Burgdörfer <db@burgdoerfer.com>",
+  "license": "MIT"
+}
