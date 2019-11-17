@@ -1,9 +1,11 @@
 ---
-title: "Sandesign3d"
+title: 'Home'
 date: 2019-11-17T12:57:59+01:00
 image_header: yes
 ---
 
-# Sandesign3d
+# Ihr Partner aus Ulm in Sachen 3D-Druck und CAD.
 
-Das ist der Inhalt der Hauptseite.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+voluptua.

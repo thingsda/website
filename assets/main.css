@@ -5,3 +5,15 @@
 [data-image-slider-hide] {
   @apply hidden;
 }
+
+.content h1 {
+  @apply bg-white text-black text-2xl py-4;
+}
+
+.content h2 {
+  @apply bg-white text-black text-2xl py-4;
+}
+
+.content p {
+  @apply bg-white text-black text-xl pb-4;
+}
