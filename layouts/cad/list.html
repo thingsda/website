@@ -1,29 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link
-      href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"
-      rel="stylesheet"
-    />
+    {{ partial "page_head.html" . }}
   </head>
   <body>
-    <div class="bg-black text-white">
-      <div class="h-12">
-        <header class="w-full fixed bg-white text-black shadow h-12">
-          <div class="flex justify-between items-center max-w-xl mx-auto px-2">
-            <div class="pt-3">E-Mail: info@sandesign3d.com</div>
-            <div class="pt-3">Telefonnummer: 01234/5678901</div>
-          </div>
-        </header>
-      </div>
-      <h1 class="font-bold text-6xl py-4 max-w-xl mx-auto">Sandesign3d</h1>
-      <div class="flex justify-start items-center max-w-xl mx-auto py-2">
-        <div class="pr-4 font-bold">Home</div>
-        <div class="px-4 font-bold">3D Druck</div>
-        <div class="px-4 font-bold">CAD</div>
-        <div class="px-4 font-bold">Kontakt</div>
-      </div>
-    </div>
+    {{ partial "header.html" . }}
     <div class="bg-white text-black max-w-xl mx-auto text-3xl py-4">
       CAD
     </div>
@@ -42,12 +23,6 @@
         src="/ines-alvarez-fdez-L_N7BaNLC5Y-unsplash.jpg"
       />
     </div>
-    <div class="w-full bg-black text-white">
-      <h1 class="font-bold text-2xl pt-4 max-w-xl mx-auto">Sandesign3d</h1>
-      <div class="flex justify-start items-center max-w-xl mx-auto">
-        <div class="py-3 pr-4">Impressum</div>
-        <div class="py-3">Datenschutz</div>
-      </div>
-    </div>
+    {{ partial "footer.html" . }}
   </body>
 </html>
