@@ -8,6 +8,7 @@
     "develop": "hugo server -D"
   },
   "devDependencies": {
-    "hugo-bin": "^0.47.1"
+    "hugo-bin": "^0.47.1",
+    "prettier": "^1.19.1"
   }
 }
