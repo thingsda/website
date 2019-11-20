@@ -25,9 +25,7 @@ Voraussetzung dafür ist ein digitales 3D-Model.
 
 ## SLA
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua.
+Bei der Stereolithografie (SLA) wird mittels UV-Lichtquelle flüssiges Kunstharz (Resin) zu hartem Kunststoff.
 
 <div class="flex justify-center items-center w-full max-w-xl mx-auto pb-4">
     <img
