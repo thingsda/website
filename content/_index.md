@@ -6,6 +6,4 @@ image_header: yes
 
 # Ihr Partner aus Ulm in Sachen 3D-Druck und CAD.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua.
+Hier werden Ihre 3D-Objekte Wirklichkeit.
