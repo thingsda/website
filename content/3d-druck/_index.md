@@ -7,9 +7,10 @@ date: 2019-11-17T13:32:33+01:00
 
 ## FDM
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua.
+Bezeichnung: Fused Deposition Modeling oder auch als Schmelzschichtverfahren bezeichnet.
+Dabei wird ein schmelzfähiger Kunststoff Schicht für Schicht bis zum fertigen Model auf eine Arbeitsplatte  extrudiert.
+Voraussetzung dafür ist ein digitales 3D-Model
+
 
 <div class="flex justify-center items-center w-full max-w-xl mx-auto">
     <img
