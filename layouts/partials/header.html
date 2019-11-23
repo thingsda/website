@@ -14,22 +14,4 @@
     <div class="px-4 font-bold">CAD</div>
     <div class="px-4 font-bold">Kontakt</div>
   </div>
-  {{ if .Params.image_header }}
-  <div data-image-slider data-image-slider-interval="3000">
-    <div
-      class="bg-cover"
-      style='height: 32rem; background-image: url({{ ((resources.Get "ines-alvarez-fdez-L_N7BaNLC5Y-unsplash.jpg").Resize "x800").RelPermalink }});'
-    ></div>
-    <div
-      data-image-slider-hide
-      class="bg-cover bg-center"
-      style='height: 32rem; background-image: url({{ ((resources.Get "neonbrand-38XhGPwzI3U-unsplash.jpg").Resize "x800").RelPermalink }});'
-    ></div>
-    <div
-      data-image-slider-hide
-      class="bg-cover"
-      style='height: 32rem; background-image: url({{ ((resources.Get "ricardo-gomez-angel-PsaMztJp_tE-unsplash.jpg").Resize "x800").RelPermalink }});'
-    ></div>
-  </div>
-  {{ end }}
 </div>
