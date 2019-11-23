@@ -4,10 +4,9 @@
     {{ partial "page_head.html" . }}
   </head>
   <body>
-    <!-- prettier-ignore -->
-    {{ partial "header.html" . }}
-    <!-- prettier-ignore -->
-    {{ partial "content.html" . }}
+    <div style="min-height: calc(100vh - 8rem)">
+      {{ block "body" . }}{{ end }}
+    </div>
     <!-- prettier-ignore -->
     {{ partial "footer.html" . }}
   </body>
