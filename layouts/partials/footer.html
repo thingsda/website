@@ -1,7 +1,15 @@
 <div class="w-full bg-black text-white h-32 px-4">
   <h1 class="font-bold text-2xl pt-4 max-w-xl mx-auto">Sandesign3d</h1>
   <div class="flex justify-start items-center max-w-xl mx-auto">
-    <div class="py-3 pr-4">Impressum</div>
-    <div class="py-3">Datenschutz</div>
+    <div class="py-3 pr-4">
+      <a href='{{ (.Site.GetPage "/impressum/index").RelPermalink }}'
+        >Impressum</a
+      >
+    </div>
+    <div class="py-3">
+      <a href='{{ (.Site.GetPage "/datenschutz/index").RelPermalink }}'
+        >Datenschutz</a
+      >
+    </div>
   </div>
 </div>
