@@ -9,9 +9,19 @@
   </div>
   <h1 class="font-bold text-6xl py-4 max-w-xl mx-auto">Sandesign3d</h1>
   <div class="flex justify-start items-center max-w-xl mx-auto py-2">
-    <div class="pr-4 font-bold">Home</div>
-    <div class="px-4 font-bold">3D Druck</div>
-    <div class="px-4 font-bold">CAD</div>
-    <div class="px-4 font-bold">Kontakt</div>
+    <div class="pr-4 font-bold">
+      <a href='{{ (.Site.GetPage "/").RelPermalink }}'>Home</a>
+    </div>
+    <div class="px-4 font-bold">
+      <a href='{{ (.Site.GetPage "/3d-druck/index").RelPermalink }}'
+        >3D Druck</a
+      >
+    </div>
+    <div class="px-4 font-bold">
+      <a href='{{ (.Site.GetPage "/cad/index").RelPermalink }}'>CAD</a>
+    </div>
+    <div class="px-4 font-bold">
+      <a href='{{ (.Site.GetPage "/kontakt/index").RelPermalink }}'>Kontakt</a>
+    </div>
   </div>
 </div>
