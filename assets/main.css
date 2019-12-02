@@ -1,6 +1,7 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+@import 'https://fonts.googleapis.com/css?family=Lobster&display=swap';
 
 [data-image-slider-hide] {
   @apply hidden;
@@ -14,6 +15,14 @@
   @apply bg-white text-black text-2xl py-4;
 }
 
+.content h3 {
+  @apply bg-white text-black text-xl py-4;
+}
+
 .content p {
   @apply bg-white text-black text-xl pb-4;
+}
+
+.content a:hover {
+  @apply text-gray-500;
 }

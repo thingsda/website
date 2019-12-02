@@ -8,7 +8,12 @@
           <div>
             E-Mail:
           </div>
-          <div class="ml-2">info@sandesign3d.com</div>
+          <a
+            class="ml-2 hover:text-gray-500"
+            href="mailto:{{ .Site.Data.contact.email }}"
+          >
+            {{ .Site.Data.contact.email }}
+          </a>
         </div>
         <div class="flex flex-wrap items-center justify-start">
           <div>Telefonnummer:</div>
@@ -17,12 +22,14 @@
       </header>
     </div>
   </div>
-  <h1 class="px-4 font-bold text-4xl md:text-6xl py-4 max-w-4xl mx-auto">
+  <h1 class="font-lobster px-4 text-4xl md:text-6xl py-4 max-w-4xl mx-auto">
     Sandesign3d
   </h1>
 </div>
 <div class="bg-white sticky top-16 md:top-12 shadow">
-  <div class="bg-white px-4 flex justify-start items-center max-w-4xl mx-auto py-2 w-full">
+  <div
+    class="bg-white px-4 flex justify-start items-center max-w-4xl mx-auto py-2 w-full"
+  >
     <div class="pr-4 font-bold">
       <a href='{{ (.Site.GetPage "/").RelPermalink }}'>Home</a>
     </div>

@@ -9,4 +9,4 @@ Sie benötigen einen 3D-Druck oder ein CAD-Model?
 Dann schicken Sie mir ganz einfach eine Mail mit Ihrer Anfrage.
 Ich mache Ihnen gerne ein Angebot.
 
-<p class="hover:text-gray-500">info@sandesign3d.com</p>
+[{{< email >}}](mailto:{{< email >}})

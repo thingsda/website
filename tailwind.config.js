@@ -2,6 +2,7 @@ const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
   theme: {
+    fontFamily: { lobster: ['Lobster', 'cursive'] },
     inset: {
       '0': 0,
       auto: 'auto',

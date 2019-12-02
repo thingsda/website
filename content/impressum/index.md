@@ -13,7 +13,7 @@ Einsteinstraße 17<br />
 
 ## Kontakt
 
-E-Mail: [info@sandesign3d.com](mailto:info@sandesign3d.com)
+E-Mail: [{{< email >}}](mailto:{{< email >}})
 
 ## Streitschlichtung
 
