@@ -2,6 +2,7 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 @import 'https://fonts.googleapis.com/css?family=Lobster&display=swap';
+@import 'https://fonts.googleapis.com/css?family=Paytone+One&display=swap';
 
 [data-image-slider-hide] {
   @apply hidden;
@@ -20,9 +21,17 @@
 }
 
 .content p {
-  @apply bg-white text-black text-xl pb-4;
+  @apply bg-white text-black text-lg pb-4;
 }
 
 .content a:hover {
   @apply text-gray-500;
+}
+
+.content strong {
+  @apply text-xl;
+}
+
+.content ul {
+  @apply text-lg list-disc pl-8 pb-3;
 }
