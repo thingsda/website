@@ -16,9 +16,9 @@ Dabei wird ein schmelzfähiger Kunststoff Schicht für Schicht bis zum fertigen 
     Schichthöhe:  0,05 - 0,4mm
     Material:  PLA, ABS, ASA, TPU, Wood, Carbon
 
-<div class="flex justify-center items-center w-full max-w-xl mx-auto mt-6">
-    {{< image src="ines-alvarez-fdez-L_N7BaNLC5Y-unsplash.jpg" size="x200" >}}
-    {{< image src="ines-alvarez-fdez-L_N7BaNLC5Y-unsplash.jpg" size="x200" >}}
+<div class="flex flex-wrap justify-center items-center w-full max-w-xl mx-auto mt-6">
+    {{< image src="FDM_Cat_Army_1920x1080.jpg" size="x200" >}}
+    {{< image src="FDM_Cookie_Cutter_Cat.jpg" size="x200" >}}
 </div>
 
 ## SLA
@@ -27,8 +27,3 @@ Bei der Stereolithografie (SLA) wird mittels UV-Lichtquelle flüssiges Kunstharz
 
     max. Bauraum:  120 x 68 x 155mm
     Schichthöhe:  0,01 - 0,2mm
-
-<div class="flex justify-center items-center w-full max-w-xl mx-auto pb-4 mt-6">
-    {{< image src="ines-alvarez-fdez-L_N7BaNLC5Y-unsplash.jpg" size="x200" >}}
-    {{< image src="ines-alvarez-fdez-L_N7BaNLC5Y-unsplash.jpg" size="x200" >}}
-</div>
