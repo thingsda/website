@@ -23,7 +23,7 @@
     </div>
   </div>
   <div class="font-lobster px-4 text-4xl md:text-6xl py-4 max-w-4xl mx-auto flex justify-between items-center">
-    <h1>Sandesign3d</h1>
+    <a href='{{ (.Site.GetPage "/").RelPermalink }}'><h1>Sandesign3d</h1></a>
     <a rel="noopener noreferrer" target="_blank" href="{{ .Site.Data.contact.instagram }}">
       <img class="h-6 md:h-full" src="{{ (resources.Get "instagram.svg").RelPermalink }}">
     </a>
