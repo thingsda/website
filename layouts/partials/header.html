@@ -22,9 +22,12 @@
       </header>
     </div>
   </div>
-  <h1 class="font-lobster px-4 text-4xl md:text-6xl py-4 max-w-4xl mx-auto">
-    Sandesign3d
-  </h1>
+  <div class="font-lobster px-4 text-4xl md:text-6xl py-4 max-w-4xl mx-auto flex justify-between items-center">
+    <h1>Sandesign3d</h1>
+    <a rel="noopener noreferrer" target="_blank" href="{{ .Site.Data.contact.instagram }}">
+      <img class="h-6 md:h-full" src="{{ (resources.Get "instagram.svg").RelPermalink }}">
+    </a>
+  </div>
 </div>
 <div class="bg-white sticky top-16 md:top-12 shadow">
   <div
