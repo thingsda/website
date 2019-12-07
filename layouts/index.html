@@ -3,6 +3,9 @@
 {{ partial "header.html" . }}
 <!-- prettier-ignore -->
 {{ partial "image_slider.html" . }}
+<div class="max-w-4xl mx-auto px-4">
+    <h1 class='bg-white text-black text-2xl py-4'>{{ .Page.Params.homepageTitle }}</h1>
+</div>
 <!-- prettier-ignore -->
 {{ partial "content.html" . }}
 <!-- prettier-ignore -->
