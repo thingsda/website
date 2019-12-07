@@ -33,19 +33,10 @@
   <div
     class="bg-white px-4 flex justify-start items-center max-w-4xl mx-auto py-2 w-full"
   >
-    <div class="pr-4 font-bold">
-      <a href='{{ (.Site.GetPage "/").RelPermalink }}'>Home</a>
-    </div>
-    <div class="px-4 font-bold">
-      <a class="whitespace-no-wrap" href='{{ (.Site.GetPage "/3d-druck/index").RelPermalink }}'
-        >3D Druck</a
-      >
-    </div>
-    <div class="px-4 font-bold">
-      <a href='{{ (.Site.GetPage "/cad/index").RelPermalink }}'>CAD</a>
-    </div>
-    <div class="px-4 font-bold">
-      <a href='{{ (.Site.GetPage "/kontakt/index").RelPermalink }}'>Kontakt</a>
-    </div>
+    {{ range .Site.Menus.main }}
+      <div class="pr-8 font-bold">
+        <a class="whitespace-no-wrap" href='{{ .URL }}'>{{ .Name }}</a>
+      </div>
+    {{ end }}
   </div>
 </div>
