@@ -66,8 +66,8 @@ Inh.: Andreas Suchanek<br />
 Einsteinstra&szlig;e 17 / 6<br />
 89077 Ulm
 
-Telefon: &#91;Telefonnummer der verantwortlichen Stelle&#93;<br />
-E-Mail: info@sandesign.com
+Telefon: {{< telephone >}}<br />
+E-Mail: {{< email >}}
 
 Verantwortliche Stelle ist die nat&uuml;rliche oder juristische Person, die allein oder gemeinsam mit anderen &uuml;ber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-Adressen o. &Auml;.) entscheidet.
 

@@ -9,15 +9,15 @@
 }
 
 .content h1 {
-  @apply bg-white text-black text-2xl py-4;
+  @apply bg-white text-black text-2xl py-4 underline;
 }
 
 .content h2 {
-  @apply bg-white text-black text-2xl py-4;
+  @apply bg-white text-black text-2xl py-4 underline;
 }
 
 .content h3 {
-  @apply bg-white text-black text-xl py-4;
+  @apply bg-white text-black text-xl py-4 underline;
 }
 
 .content p {
