@@ -27,3 +27,6 @@ Bei der Stereolithografie (SLA) wird mittels UV-Lichtquelle flüssiges Kunstharz
 
     max. Bauraum:  120 x 68 x 155mm
     Schichthöhe:  0,01 - 0,2mm
+    
+<div class="flex flex-wrap justify-center items-center w-full max-w-xl mx-auto mt-6">
+    {{< image src="SLA_Eiffel_Tower.jpg" size="x200" >}}
