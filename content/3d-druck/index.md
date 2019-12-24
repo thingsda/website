@@ -33,3 +33,4 @@ Bei der Stereolithografie (SLA) wird mittels UV-Lichtquelle flüssiges Kunstharz
     {{< image src="SLA_Notre_Dame.jpg" size="x200" >}}
     {{< image src="SLA_Dragon_print.jpg" size="x200" >}}
     {{< image src="SLA_Skyrim_Dragon_1920.jpg" size="x200" >}}
+</div>
