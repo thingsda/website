@@ -29,7 +29,7 @@ Bei der Stereolithografie (SLA) wird mittels UV-Lichtquelle flüssiges Kunstharz
     Schichthöhe:  0,01 - 0,2mm
     
 <div class="flex flex-wrap justify-center items-center w-full max-w-xl mx-auto mt-6">
-    {{< image src="SLA_Eiffel_Tower.jpg" size="x500" >}}
+    {{< image src="SLA_Eiffel_Tower.jpg" size="x600" >}}
     {{< image src="SLA_Notre_Dame.jpg" size="x500" >}}
     {{< image src="SLA_Dragon_print.jpg" size="x500" >}}
     {{< image src="SLA_Skyrim_Dragon_1920.jpg" size="x500" >}}
