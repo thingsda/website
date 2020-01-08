@@ -1,7 +1,8 @@
 ---
 title: 'Home'
 date: 2019-11-17T12:57:59+01:00
-homepageTitle: 'Ihr Partner aus Ulm in Sachen 3D-Druck und CAD.'
+homepageTitle: 'Hier geht es um 3D-Druck, CAD, Design, Prototyping, 
+...Modelbau, Ersatzteile, Gadgets, Sonderanfertigungen und mehr.'
 ---
 
-Hier werden Ihre 3D-Objekte Wirklichkeit!
+the place where projects come true!
