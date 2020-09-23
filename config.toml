@@ -21,6 +21,16 @@ url = "/cad/"
 weight = 20
 
 [[menu.main]]
+name = "Lasern"
+url = "/lasern/"
+weight = 30
+
+[[menu.main]]
+name = "Fräsen"
+url = "/fräsen/"
+weight = 40
+
+[[menu.main]]
 name = "Kontakt"
 url = "/kontakt/"
-weight = 30
+weight = 50
