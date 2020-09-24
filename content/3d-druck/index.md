@@ -14,7 +14,7 @@ Dabei wird ein schmelzfähiger Kunststoff Schicht für Schicht bis zum fertigen 
 
     max. Bauraum:  400 x 400 x 450mm
     Schichthöhe:  0,05 - 0,4mm
-    Material:  PLA, ABS, ASA, TPU, Wood, Carbon
+    Material:  PLA, PETG, ABS, ASA, TPU, Holz, Carbon
 
 <div class="flex flex-wrap justify-center items-center w-full max-w-xl mx-auto mt-6">
     {{< image src="FDM_Cat_Army_1920x1080.jpg" size="x200" >}}
