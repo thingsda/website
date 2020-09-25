@@ -17,9 +17,9 @@ Folgende Materialien können beschriftet oder geschnitten werden:
     <li>Papier</li>
 </ul>
 
-Es kann aktuell eine maximale Fläche von 230mm x 250mm gelasert werden.
+<em>Es kann aktuell eine maximale Fläche von 230mm x 250mm gelasert werden.</em>
 
-Vorteile:
+## Vorteile:
 <ul>
     <li>Es wird keine Chemie verwendet</li>
     <li>Skalierbar</li>
