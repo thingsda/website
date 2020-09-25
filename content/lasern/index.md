@@ -20,8 +20,10 @@ Folgende Materialien können beschriftet oder geschnitten werden:
 Es kann aktuell eine maximale Fläche von 230mm x 250mm gelasert werden.
 
 Vorteile:
-* Es wird keine Chemie verwendet
-* Skalierbar
-* Reproduzierbar
-* Einzigartige Optik
-* Resistent gegen Umwelteinflüsse
+<ul>
+    <li>Es wird keine Chemie verwendet</li>
+    <li>Skalierbar</li>
+    <li>Reproduzierbar</li>
+    <li>Einzigartige Optik</li>
+    <li>Resistent gegen Umwelteinflüsse</li>
+</ul>
