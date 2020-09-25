@@ -10,10 +10,12 @@ Zum Einsatz kommt ein 1600mW 450nm Laser mit eingebauter Kamera zur genauen Posi
 </div>
 
 Folgende Materialien können beschriftet oder geschnitten werden: 
-* Holz
-* Leder
-* Kunststoff
-* Papier
+<ul>
+    <li>Holz</li>
+    <li>Leder</li>
+    <li>Kunststoff</li>
+    <li>Papier</li>
+</ul>
 
 Es kann aktuell eine maximale Fläche von 230mm x 250mm gelasert werden.
 
