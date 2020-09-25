@@ -10,16 +10,16 @@ Zum Einsatz kommt ein 1600mW 450nm Laser mit eingebauter Kamera zur genauen Posi
 </div>
 
 Folgende Materialien können beschriftet oder geschnitten werden: 
-  Holz
-  Leder
-  Kunststoff
-  Papier
+* Holz
+* Leder
+* Kunststoff
+* Papier
 
 Es kann aktuell eine maximale Fläche von 230mm x 250mm gelasert werden.
 
 Vorteile:
-  Es wird keine Chemie verwendet – Umweltfreundlich
-  Skalierbar
-  Reproduzierbar
-  Einzigartige Optik
-  Resistent gegen Umwelteinflüsse
+* Es wird keine Chemie verwendet
+* Skalierbar
+* Reproduzierbar
+* Einzigartige Optik
+* Resistent gegen Umwelteinflüsse
