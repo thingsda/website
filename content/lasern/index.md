@@ -9,7 +9,7 @@ Zum Einsatz kommt ein 1600mW 450nm Laser mit eingebauter Kamera zur genauen Posi
     {{< image src="Lasern_1(1).jpg" size="x1600" >}}
 </div>
 
-## <i>Folgende Materialien können beschriftet oder geschnitten werden:</i>
+### <i>Folgende Materialien können beschriftet oder geschnitten werden:</i>
 <ul><small>
     <li>Holz</li>
     <li>Leder</li>
