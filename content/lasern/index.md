@@ -20,10 +20,10 @@ Folgende Materialien können beschriftet oder geschnitten werden:
 <i>maximale Fläche: 230mm x 250mm</i>
 
 ## Vorteile:
-<ul>
+<ul><small>
     <li>Es wird keine Chemie verwendet</li>
     <li>Skalierbar</li>
     <li>Reproduzierbar</li>
     <li>Einzigartige Optik</li>
     <li>Resistent gegen Umwelteinflüsse</li>
-</ul>
+</ul></small>
