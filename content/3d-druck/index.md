@@ -7,10 +7,6 @@ date: 2019-11-17T13:32:33+01:00
 
 Der 3D-Druck gehört zur additiven Fertigung. Das heißt es wird im Gegensatz zur zerspanenden Fertigung Material aufgetragen. Als Grundvorrausetzung wird dabei ein digitales 3D-Model benötigt.
 
-<iframe id="auto3d-widget-vendor-rqbwEzSjtC2Ydkk6o" scrolling="yes" style="width: 100%; height: 1094px; margin:0 auto; display: block;" src="https://app.3dcompare.com/widget/vendor/rqbwEzSjtC2Ydkk6o/#" frameborder="0"></iframe>
-  <script type="text/javascript">
-    document.getElementById("auto3d-widget-vendor-rqbwEzSjtC2Ydkk6o").src = "https://app.3dcompare.com/widget/vendor/rqbwEzSjtC2Ydkk6o/#" + (document.location.href.split("#")[1] || "");
-  </script>
   
 ## FDM
 
