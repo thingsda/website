@@ -18,8 +18,8 @@ Dabei wird ein schmelzfähiger Kunststoff Schicht für Schicht bis zum fertigen 
     Material:  PLA, PETG, ABS, ASA, TPU, Holz, Carbon
 
 <div class="flex flex-wrap justify-center items-center w-full max-w-xl mx-auto mt-6">
-    {{< image src="FDM_turbo_fan.jpg" size="x200" >}}
-    {{< image src="FDM_Cookie_Cutter_Cat.jpg" size="x200" >}}
+    {{< image src="FDM_turbo_fan.jpg" size="x300" >}}
+    {{< image src="FDM_Cookie_Cutter_Cat.jpg" size="x300" >}}
     {{< image src="FDM_Merry_Christmas.jpg" size="x380" >}}
 </div>
 
