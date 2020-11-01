@@ -7,7 +7,9 @@ date: 2019-11-17T13:32:33+01:00
 
 Der 3D-Druck gehört zur additiven Fertigung. Das heißt es wird im Gegensatz zur zerspanenden Fertigung Material aufgetragen. Als Grundvorrausetzung wird dabei ein digitales 3D-Model benötigt.
 
-  
+<iframe id="iframe1" name="iframe1" src="https://www.3dabax.com/calc/index.php?vendor=450"  height="700px"  width="100%" allowtransparency="true" allowFullScreen="true" frameBorder="0"></iframe>
+Gerne fertige ich Ihnen auch individuell Ihr Wunschobjekt an. Sie können entweder direkt Ihre Datei hochladen, das Material und die Farbe auswählen und das Objekt bei mir bestellen. Oder Sie schicken uns Dateien zu Ihrem Wunschobjekt und wir melden uns dann bei Ihnen.
+
 ## FDM
 
 Bezeichnung: Fused Deposition Modeling oder auch als Schmelzschichtverfahren bezeichnet.
